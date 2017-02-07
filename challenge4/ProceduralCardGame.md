@@ -1,6 +1,5 @@
-##### Homework 02 - Card Game
-
-Today we are being asked to write a few functions that will help some of our other team members create a card game they are working on. 
+##### Challenge 04 - Procedural Style Card Game
+ 
 Create the following functions
 - ```getDeck()``` - Returns an array of cards in a deck
 - ```shuffleDeck(&$deck)``` - Shuffle a deck of cards
