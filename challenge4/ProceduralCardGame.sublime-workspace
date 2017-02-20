@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exp",
+				"$expiration〔variable〕"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"_po",
+				"$_POST〔variable〕"
+			],
+			[
+				"_P",
+				"$_POST〔variable〕"
+			],
+			[
+				"user",
+				"$username〔variable〕"
+			],
+			[
+				"con",
+				"$connection〔variable〕"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"p",
+				"$password〔variable〕"
+			],
+			[
+				"_p",
+				"$_POST〔variable〕"
+			],
+			[
+				"name",
+				"name=〔attribute〕"
+			],
+			[
+				"array_con",
+				"array_count_values"
+			],
+			[
+				"array_fil",
+				"array_filter〔function〕"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"c",
+				"$counter〔variable〕"
+			],
+			[
+				"els",
+				"else〔keyword〕"
+			],
+			[
+				"array",
+				"array\t$… = array (…)"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"n",
+				"$number〔variable〕"
+			],
+			[
+				"numb",
+				"$number1〔variable〕"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"f",
+				"f0889c"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"s",
+				"sqrt〔function〕"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/writing_files.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/10.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/class_static.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/class_car.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/session2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/session1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/cookies.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/9.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/8.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/the_post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/get.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/loginDelete.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/includes/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/includes/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/db.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/loginRead.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/loginUpdate.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/7.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/samir_challenges/challenge3/form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/samir_challenges/challenge3/process_form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_36_mysql/43_50_51_53_54_login_create.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/loginCreate.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/mySqlProject/includes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/6.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/form_process.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/form_external.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/mysql.php",
+		"/Users/brianmartinez/Downloads/built_in_functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/5.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/samir_challenges/challenge2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/4.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/arrays_assoc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/passing_params_functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/return_values_functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/scope.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/constants.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/challenge1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Samir Challenges/challenge1.1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/samir_challenges/example.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/18_for_loop.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/3.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/foreach.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/for_loop.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/while_loop.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/switch_statements.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/comparison_operators.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/ifstatement.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/12_arrays_assoc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/arrays.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/math.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/variables.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo-2/_practical-app/1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/comments.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/dynamic_text.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/demo/embed.php",
+		"/Users/brianmartinez/Desktop/blank.php",
+		"/Users/brianmartinez/Desktop/ TreeHouse/css/embed.php",
+		"/Users/brianmartinez/Desktop/ TreeHouse/css/hello.php",
+		"/Users/brianmartinez/Desktop/ TreeHouse/css/contact.html",
+		"/Users/brianmartinez/Desktop/ TreeHouse/css/main.css",
+		"/Users/brianmartinez/Desktop/ TreeHouse/css/mail.png",
+		"/Users/brianmartinez/Desktop/ TreeHouse/main.css",
+		"/Users/brianmartinez/Desktop/ TreeHouse/normalize.css",
+		"/Users/brianmartinez/Desktop/ TreeHouse/css",
+		"/Users/brianmartinez/Desktop/ TreeHouse/sexy.jpeg",
+		"/Users/brianmartinez/Desktop/ TreeHouse/phone.png",
+		"/Users/brianmartinez/Documents/index.html",
+		"/Users/brianmartinez/Desktop/webpics/sexy.jpeg",
+		"/Users/brianmartinez/Desktop/web pics/sexy.jpeg",
+		"/Users/brianmartinez/Downloads/sexy.jpeg",
+		"/Users/brianmartinez/Downloads/normalize.css",
+		"/Users/brianmartinez/Downloads/img/twitter-wrap.png",
+		"/Users/brianmartinez/Downloads/img/twitter.png",
+		"/Users/brianmartinez/Downloads/img/phone.png",
+		"/Users/brianmartinez/Downloads/img/facebook-wrap.png",
+		"/Users/brianmartinez/Downloads/img/mail.png",
+		"/Users/brianmartinez/Downloads/img/facebook.png",
+		"/Users/brianmartinez/Documents/index pics",
+		"/Users/brianmartinez/Documents/returnEx.js",
+		"/Users/brianmartinez/Documents/returnEx.html",
+		"/Users/brianmartinez/Documents/whileLoops.js",
+		"/Users/brianmartinez/Documents/annoy.js",
+		"/Users/brianmartinez/Documents/annoy.html",
+		"/Users/brianmartinez/Documents/whileLoops.html",
+		"/Users/brianmartinez/Documents/ageGame.html",
+		"/Users/brianmartinez/Documents/ageGame.js",
+		"/Users/brianmartinez/Documents/game.js",
+		"/Users/brianmartinez/Documents/game.html",
+		"/Users/brianmartinez/Documents/cal.js",
+		"/Users/brianmartinez/Documents/Age Calculator.html",
+		"/Users/brianmartinez/Documents/jsexercise.js",
+		"/Users/brianmartinez/Documents/new.html",
+		"/Users/brianmartinez/Documents/script.js",
+		"/Users/brianmartinez/Desktop/navbars.html",
+		"/Users/brianmartinez/Desktop/bootstrapbasics.html",
+		"/Users/brianmartinez/Downloads/blog.css",
+		"/Users/brianmartinez/Downloads/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/Users/brianmartinez/Desktop/blog.css",
+		"/Users/brianmartinez/Desktop/blog.html",
+		"/<!DOCTYPE html>"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ProceduralCardGame.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Age Cal JS.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
